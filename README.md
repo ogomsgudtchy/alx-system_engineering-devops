@@ -1,1 +1,1 @@
-My third readme - Shell redirections
+My first readme
